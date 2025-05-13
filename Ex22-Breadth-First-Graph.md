@@ -3,6 +3,7 @@
 ## AIM:
 To write a printQueue C function of the given graph that is to be traversed in the breadth first manner.
 
+![image](https://github.com/user-attachments/assets/d206c08c-4be8-4401-9654-93ffa7909a77)
 
 ## Algorithm
 1.Start 2.Start from the front index of the queue. 3.If the queue is empty, print "Queue is empty". 4.Otherwise, print "Queue contains" and display all items from front to rear. 5.Return after printing the queue contents. 6.End
